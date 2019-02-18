@@ -7,16 +7,17 @@ https://www.lpericena.tk/2017/05/localizacion.html
 <p align="center">
 El script Localizacion.pl esta desarrollado en el lenguaje perl .
 El objetivo del script es tener los datos de la pagina web como :
-                                           -    [+] ORG: es la organizacion o la pagina web la informacion
-                                           -    [+] Country: es el País donde esta alojada la web
-                                           -    [+] City: es la ciudad donde esta alojada la web
-                                           -    [+] Region: es la region donde se encuentra el sitio web
-                                           -    [+] Geo:Longitud de la web
-                                           -    [+] Geo:.Longitud de web
-                                           -    [+] Time:El tiempo o hora que usa la web
-                                           -    [+] As number/name:numero o el nombre 
-                                           -    [+] Status:estado de la pagina web
   </p>
+  -    [+] ORG: es la organizacion o la pagina web la informacion
+  -    [+] Country: es el País donde esta alojada la web
+  -    [+] City: es la ciudad donde esta alojada la web
+  -    [+] Region: es la region donde se encuentra el sitio web
+  -    [+] Geo:Longitud de la web
+  -    [+] Geo:.Longitud de web
+  -    [+] Time:El tiempo o hora que usa la web
+  -    [+] As number/name:numero o el nombre 
+  -    [+] Status:estado de la pagina web
+ <img src="https://2.bp.blogspot.com/-9nlhT1h7l68/WSl3XKr1wKI/AAAAAAAAFRM/RMDggri-ZHo6hiCrDM8igH9d9zkCX5XdwCLcB/s1600/Screenshot_12.png">
 Sigueme en las redes Sociales:
 
 - 🌎Blogger          https://lpericena.blogspot.com/
