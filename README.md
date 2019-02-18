@@ -4,7 +4,8 @@ En el mundo de internet, la geolocalización es la capacidad para obtener la loc
   <img src="https://4.bp.blogspot.com/-BRCKw2xPWhc/WSc8Wtb_PpI/AAAAAAAAFPU/sFviBDyd_PQ64Q-PV94JeYWtsuE2vR7NQCLcB/s1600/Screenshot_31.png">  
 </p>
 https://www.lpericena.tk/2017/05/localizacion.html
-- El script Localizacion.pl esta desarrollado en el lenguaje perl .
+<p align="center">
+El script Localizacion.pl esta desarrollado en el lenguaje perl .
 El objetivo del script es tener los datos de la pagina web como :
                                                [+] ORG: es la organizacion o la pagina web la informacion
                                                [+] Country: es el País donde esta alojada la web
@@ -16,6 +17,7 @@ El objetivo del script es tener los datos de la pagina web como :
                                                [+] As number/name:numero o el nombre 
                                                [+] Status:estado de la pagina web
 Sigueme en las redes Sociales:
+</p>
 - 🌎Blogger          https://lpericena.blogspot.com/
 - 💡 Github            https://github.com/Pericena
 - 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
