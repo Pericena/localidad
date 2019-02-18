@@ -1,33 +1,35 @@
 # Localizacion
+En el mundo de internet, la geolocalización es la capacidad para obtener la localización geográfica del usuario que está accediendo a un determinado recurso de internet. Esa información puede servir, como luego se verá, para muchas cosas. Si en vez de ofrecer a todos los usuarios la misma información, procedan de donde procedan, se les ofrece un contenido personalizado en función de su localización geográfica, entonces se está realizando ‘geotargeting
+<p align="center">
+  <img src="https://4.bp.blogspot.com/-BRCKw2xPWhc/WSc8Wtb_PpI/AAAAAAAAFPU/sFviBDyd_PQ64Q-PV94JeYWtsuE2vR7NQCLcB/s1600/Screenshot_31.png">  
+</p>
+https://www.lpericena.tk/2017/05/localizacion.html
 
+Sigueme en las redes Sociales:
+- 🌎Blogger          https://lpericena.blogspot.com/
+- 💡 Github            https://github.com/Pericena
+- 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
+- 📸 pinterest        https://es.pinterest.com/lushiopericena/
+- 🐤 twitter             https://twitter.com/LPericena
+- 👦 linkedin         https://www.linkedin.com/in/lpericena/
+- 👍 facebook       https://www.facebook.com/profile.php?id=100009309755063
+- 👍 pagina facebook  https://www.facebook.com/lpericena
+- 🎮 sitio web        https://pericena.wordpress.com/
+- vimeo         https://vimeo.com/lpericena
+- 📷 instagram      https://www.instagram.com/lpericena/
+- 🎁 remote      https://remote.com/luishinopericena-choque
+- ⚛ google+   https://plus.google.com/u/0/114054031405340478901
+- 🚀 kiwi       https://kiwi.qa/LuishinoC
+- 📅 App    https://apps.facebook.com/167466933725219
+- 👻 Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
+- 🎧 socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
+- ツ teachlr    https://teachlr.com/lpericena
+- 📖  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
+- 📧 ask          https://ask.fm/Lpericena
+- 💻 stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
+- 📡 wix https://lpericena.wixsite.com/curriculumvitae
 
-@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@@@B@B@@@B@B@@@B
-B@B@B@B@@@B@B@B@B@B@B@B@@@B@B@B@B@B@B@B@B@B@B@M@B@B@BHi9Ss:    sM@@@B@
-@B@B@B@B@B@B@@@B@B@B@B@B@B@B@B@@@B@@@B@B@B@9:,  :         ,:G ,B@B@B@B
-B@B@B@@@B@B@@@B@B@B@B@B@B@G@B@B@XiB@B@BsH:,     rs:ir99: ,X@B@9@B@B@B@
-@B@B@@@B@B@B@B@B@BHs2MS:   B@B@@@i:,,X :  r,XS, iG GsSGri,  sB@@@B@B@B
-B@@@B@B@B@@@B@B@@r:,,     9@B@B9  : is:GM9s X9r  s,;rsrXBi::B9s@B@B@B@
-@B@B@B@@@B@B@B@BsiMB@  s@BSG@B@M iM Gs9s:2s2s,:5Sr@9M5:,M:XGMGXB@@@@@B
-B@B@B@BB9@i,i,2@B:B@BiB@B@B@SrsH    ,rSr 2XG9,i@XM9MHXsrrr,5B@B@B@B@B@
-@5:,, ,     sB@2  2B@@@B@B@B@Br rSsi:sss,rG,25rs:;i:::i;i:rXB@@B@B@B@B
-G        ,  ,MG  s,sB@B@B@B@B,,GB@B@@@BX,:rsi:ii,:::s9iirS@@M9M@@@B@B@
-@G@@: ,,:,:,,   rB@B@B@B@B@B@9ri,,ssirisS::sri@B@r:s@B@XsrGB@GSM@@@B@B
-B@B@2 ,:,:,,, :@B@B@B@B@@@B@M:,:i::::i:i29sirGB@B@s2@@B@XGBBsXBMGM9MBM
-@B@G ,::::,  i@B@B@B@B@B@B@@i,;irrrrrrrrrs259B@B@B@B@B@B9rM9sS9B@B9s99
-B@@@, ,:,,:Ss@B@B@B@B@B@B@B@s,;iiiirrsssssrrS@B@B@B@B@@@B@G@B@B@@GB@G@
-@@@B@r:,,B@B@GMB@B@B@B@B@@@B@siisX2ssssssssM@B@B@B@B@B@@@@@B@B@GS5X9XG
-@@B@B@@i,2s:G@B@B@@@@@@@B@B@B@B@B@B9rss2222@B@@@B@B@B@@@B@B@BMSXS9X99X
-@B@B@B@B@BXsrM2:iiss2B@B@@@B@B@B@B@BMs2252sS@S@B@B@B@B@B@B@B@SS9GGMGGM
-B@B@@@B@B@B@@B:;rrrriss22BB@B@B@B@B@Bs2SS59@M2B@B@B@B@B@B@B@BMM@B@BMM@
-@B@@@@@B@B@B@BrrsssssssrsM@@@@@@@B@B@G5S92MB@M@B@@@B@B@@@B@@@B@B@B@B@B
-B@B@B@@@B@B@B@@2sss2252sH@B@B@B@B@B@B@GS59B@B@@@B@B@B@B@@@B@B@B@B@B@B@
-@B@B@@@B@@@B@B@BM922HHHHM@@B@B@B@B@B@B@GM@@B@@@B@B@B@B@@@@@B@B@B@B@B@B
-B@B@B@B@B@@@B@B@B@sSSX2GB@B@B@@@@@B@B@B@B@B@B@B@B@B@@@@@B@B@B@B@B@@@@@
-@B@B@B@B@B@B@B@B@BGS9SXB@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@B@@@B@B@B@B
-B@B@B@B@B@B@B@B@B@B9XGB@B@B@B@B@B@B@B@B@B@B@@@B@B@B@B@B@B@@@B@@@B@B@B@
-@B@B@B@B@@@@@@@B@B@BGG@B@B@B@B@B@B@B@B@B@B@@@B@B@B@@@@@B@B@@@@@B@B@B@B
-B@B@B@B@B@B@@@B@@@B@BMM@B@@@B@@@@@@@B@B@B@B@@@B@B@B@B@B@B@B@B@B@@@B@B@ 
-  
-			Ip Geolocation  
-			 Analizando
------------------------------------------------------------------------
+* Gracias  馃.
+
+---
+鈱笍 Por [Pericena](https://github.com/Pericena) 馃槉
