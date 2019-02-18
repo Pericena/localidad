@@ -7,17 +7,18 @@ https://www.lpericena.tk/2017/05/localizacion.html
 <p align="center">
 El script Localizacion.pl esta desarrollado en el lenguaje perl .
 El objetivo del script es tener los datos de la pagina web como :
-                                               [+] ORG: es la organizacion o la pagina web la informacion
-                                               [+] Country: es el País donde esta alojada la web
-                                               [+] City: es la ciudad donde esta alojada la web
-                                               [+] Region: es la region donde se encuentra el sitio web
-                                               [+] Geo:Longitud de la web
-                                               [+] Geo:.Longitud de web
-                                               [+] Time:El tiempo o hora que usa la web
-                                               [+] As number/name:numero o el nombre 
-                                               [+] Status:estado de la pagina web
+                                           -    [+] ORG: es la organizacion o la pagina web la informacion
+                                           -    [+] Country: es el País donde esta alojada la web
+                                           -    [+] City: es la ciudad donde esta alojada la web
+                                           -    [+] Region: es la region donde se encuentra el sitio web
+                                           -    [+] Geo:Longitud de la web
+                                           -    [+] Geo:.Longitud de web
+                                           -    [+] Time:El tiempo o hora que usa la web
+                                           -    [+] As number/name:numero o el nombre 
+                                           -    [+] Status:estado de la pagina web
+  </p>
 Sigueme en las redes Sociales:
-</p>
+
 - 🌎Blogger          https://lpericena.blogspot.com/
 - 💡 Github            https://github.com/Pericena
 - 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
