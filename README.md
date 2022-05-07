@@ -3,7 +3,7 @@ En el mundo de internet, la geolocalización es la capacidad para obtener la loc
 <p align="center">
   <img src="https://4.bp.blogspot.com/-BRCKw2xPWhc/WSc8Wtb_PpI/AAAAAAAAFPU/sFviBDyd_PQ64Q-PV94JeYWtsuE2vR7NQCLcB/s1600/Screenshot_31.png">  
 </p>
-https://www.lpericena.tk/2017/05/localizacion.html
+https://lpericena.blogspot.com/2017/05/localizacion.html
 <p align="center">
 El script Localizacion.pl esta desarrollado en el lenguaje perl .
 El objetivo del script es tener los datos de la pagina web como :
